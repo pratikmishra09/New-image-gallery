@@ -31,7 +31,7 @@ nav {
 }
 
 nav:hover {
-    background-image: url('/Image/girl-in-the-illusion-world-wd.jpg');
+    background-image: url('image/girl-in-the-illusion-world-wd.jpg');
     background-size: cover;
     background-position: center;
 }
